@@ -1,0 +1,8 @@
+{
+  "from": "coder3",
+  "to": "manager",
+  "type": "critical_error",
+  "message": "Failed to generate code for reward_system.py after 3 attempts",
+  "details": {},
+  "timestamp": "2025-07-31T21:04:49.701517"
+}
